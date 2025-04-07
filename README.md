@@ -30,7 +30,7 @@ The target variable is binary:
 
 - Best accuracy achieved with:
   - `criterion='gini'`
-  - `max_depth=5`
+  - `max_depth=6`
   - `min_samples_split=2`
 - Most influential feature: `Variance`
 - Less discriminative feature: `Entropy`
