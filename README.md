@@ -29,7 +29,7 @@ The target variable is binary:
 # Results
 
 - Best accuracy achieved with:
-  - `criterion='gini'`
+  - `criterion='Entropy'`
   - `max_depth=6`
   - `min_samples_split=2`
 - Most influential feature: `Variance`
